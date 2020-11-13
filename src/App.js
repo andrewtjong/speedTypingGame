@@ -1,4 +1,5 @@
 import React,{useState, useEffect} from "react"
+import React from "react"
 
 function App() {
   const STARTING_TIME = (15)
